@@ -1,0 +1,13 @@
+Model,Parameters,Performance metrics,Value
+ARIMA,"(0,0,0)",MSE,633279.11
+ARIMA,"(0,0,0)",MAE,187.16
+ARIMA,"(0,0,0)",r2,-0.00792
+ARIMA-scaled,"(0,0,0)",MSE,2.734
+ARIMA-scaled,"(0,0,0)",MAE,0.389
+ARIMA-scaled,"(0,0,0)",r2,-0.00792
+ARIMA-Log,"(0,0,0)",MSE,7.661
+ARIMA-Log,"(0,0,0)",MAE,2.259
+ARIMA-Log,"(0,0,0)",r2,-0.0663
+ARIMA-Log,"(2,0,2)",MSE,7.484
+ARIMA-Log,"(2,0,2)",MAE,2.23
+ARIMA-Log,"(2,0,2)",r2,-0.0416
